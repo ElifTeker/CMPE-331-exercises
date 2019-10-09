@@ -1,2 +1,2 @@
 # CMPE-331-exercises
-ELİF TEKER
+Author ELİF TEKER
